@@ -1,5 +1,6 @@
 ## git-tutorial
 Toy shell for git tutorial purposes
+Slavko nema pojma :)
 
 Clone this repository by running the following command:
 
@@ -25,6 +26,7 @@ Clone this repository by running the following command:
       cd python
       ./lust.py
 
-### Maintainer:
-Luka
 
+* Maintainers:
+Mirko
+Luka
